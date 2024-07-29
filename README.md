@@ -4,7 +4,7 @@ ASCII Code Hex
 
 ## Tabla de Conversión
 
-| Caracter | ASCII Hex |
+| Caracter | Unicode |
 |----------|-----------|
 | á        | E1        |
 | é        | E9        |
@@ -12,3 +12,5 @@ ASCII Code Hex
 | ó        | F3        |
 | ú        | FA        |
 | ñ        | F1        |
+| @        | 0040        |
+
