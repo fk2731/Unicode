@@ -1,8 +1,4 @@
-# ASCII-Hex ツ
-ASCII Code Hex 
-
-
-## Tabla de Conversión
+# Unicodeツ
 
 | Caracter | Unicode |
 |----------|-----------|
